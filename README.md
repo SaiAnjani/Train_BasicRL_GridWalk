@@ -2,7 +2,7 @@
 
 ## Overview
 
-`gridworld_value_iteration.py` is a Python script that implements the Value Iteration algorithm for solving the Gridworld problem. The Gridworld problem is a common example in reinforcement learning where an agent navigates a grid to reach a goal while maximizing the cumulative reward.
+`gridwalk.py` is a Python script that implements the Value Iteration algorithm for solving the Gridworld problem. The Gridworld problem is a common example in reinforcement learning where an agent navigates a grid to reach a goal while maximizing the cumulative reward.
 
 ## Code Explanation
 
