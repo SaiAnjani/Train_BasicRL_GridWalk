@@ -74,6 +74,9 @@ In this example, `S` is the start state, `G` is the goal state, `.` represents e
 ## Result
 
 [[-2.94117 -2.7731  -2.533   -2.19   ]
+
  [-2.7731  -2.533   -2.19    -1.7    ]
+ 
  [-2.533   -2.19    -1.7     -1.     ]
+ 
  [-2.19    -1.7     -1.       0.     ]]
