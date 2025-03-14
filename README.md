@@ -47,7 +47,7 @@ Extract policy π:
 To run the script, execute the following command:
 
 ```sh
-python gridworld_value_iteration.py
+python gridwalk.py
 ```
 
 Ensure you have the necessary dependencies installed.
@@ -69,3 +69,11 @@ Optimal Policy:
 ```
 
 In this example, `S` is the start state, `G` is the goal state, `.` represents empty cells, and `#` represents obstacles. The arrows indicate the optimal policy for the agent to follow.
+
+
+## Result
+
+[[-2.94117 -2.7731  -2.533   -2.19   ]
+ [-2.7731  -2.533   -2.19    -1.7    ]
+ [-2.533   -2.19    -1.7     -1.     ]
+ [-2.19    -1.7     -1.       0.     ]]
